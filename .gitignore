@@ -1,0 +1,7 @@
+/app
+/dist/
+*.exe
+.env
+.idea/
+.vscode/
+.DS_Store
